@@ -1,0 +1,1 @@
+<a class="btn btn-default" href="#menuArticleModal" role="button" type="button" data-toggle="modal"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Lire les articles</a>

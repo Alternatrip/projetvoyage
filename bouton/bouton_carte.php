@@ -1,0 +1,1 @@
+<a class="btn btn-default" href="#MapModal" role="button" type="button" data-toggle="modal"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Voir la carte.</a>
